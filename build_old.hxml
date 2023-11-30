@@ -1,0 +1,5 @@
+-cp src
+-L sqlite
+--main Main_old
+--cpp bin/cpp
+--no-traces
