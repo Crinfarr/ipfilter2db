@@ -1,2 +1,4 @@
 bin
 .haxelib
+hosts.db
+testdata.list
